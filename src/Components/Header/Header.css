@@ -1,0 +1,15 @@
+.teamLogo{
+    width:40px;
+}
+.container-fluid{
+  
+    margin: 0px 100px;
+}
+.header{
+    background-color: #1e2ca8;
+    position: sticky;
+    top: 0;
+}
+.list-item a{
+    color: white !important;
+}

@@ -1,0 +1,91 @@
+[{
+    "salary": 1000,
+    "name": "Shakib Al Hassan",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXIBKsJRbkcDMOyQS87tw1pRT5jTAMhMCFQ&usqp=CAU",
+    "position": "All-Rounder",
+    "country": "Bangladesh"
+  }, {
+    "salary": 3060,
+    "name": "Virat kohli",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRVElyjWozJzPsTMnmarvdlgXH_v4H9UcuTA&usqp=CAU",
+    "position": "Batsman",
+    "country": "India"
+  }, {
+    "salary": 4500,
+    "name": "Ms Dhoni",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6radkbNlcDqM6VGD8pVxpMPR16bnHUe_3nA&usqp=CAU",
+    "position": "Batsman",
+    "country": "India"
+  }, {
+    "salary": 7890,
+    "name": "Glenn Maxwell",
+    "img": "https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/maxwell020301.jpg",
+    "position": "All-Rounder",
+    "country": "Australian"
+  }, {
+    "salary": 6443,
+    "name": "Mustafizur Rahman",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSeM237FdrI6l2osXErDzGQBfnzuAuGmKtg&usqp=CAU",
+    "position": "Bowler",
+    "country": "Bangladesh"
+  }, {
+    "salary": 4311,
+    "name": "Chris gayle",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT8-9FVbBTNPbRzBQ8TTD0Ja3oofupLAk6yw&usqp=CAU",
+    "position": "Batsman",
+    "country": "West Indies"
+  }, {
+    "salary": 9800,
+    "name": "AB de Villiers",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBWETgpJbla2o_MNtFsps69QwqlvRimo0DQ&usqp=CAU",
+    "position": "Batsman",
+    "country": " South African"
+  }, {
+    "salary": 7655,
+    "name": "Tamim Iqbal",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVG9F0JC8y_EX02nWEpR5-H2Jf6JXi44wiUw&usqp=CAU",
+    "position": "Batsman",
+    "country": "Bangladesh"
+  }, {
+    "salary": 4322,
+    "name": "Soumya Sarkar",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGKXbf6TQr5cDKFJ80TtZs6LPx_5byOTAbeQ&usqp=CAU",
+    "position": "All-Rounder",
+    "country": "Bangladesh"
+  }, {
+    "salary": 4422,
+    "name": "Musfiq Rahman",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmeCkRq7qWlWAJ57Fve1Za26C1J14oaxKVEg&usqp=CAU",
+    "position": "Batsman",
+    "country": "Bangladesh"
+  }, {
+    "salary": 3335,
+    "name": "Rubel Hossain",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXcBg8kZWM2EQHpR3fa8RiJKdtNxlTfZnKOg&usqp=CAU",
+    "position": "Bowler",
+    "country": "Bangladesh"
+  }, {
+    "salary": 9765,
+    "name": "Michael Stark",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Og7kP7wqfR8If70TtcF3zMZAEiXaaxpHiA&usqp=CAU",
+    "position": "Bowler",
+    "country": "Australian "
+  }, {
+    "salary": 5433,
+    "name": "Rashid Khan",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0Jba0GsOpfo9HAsMDymdA7jAnWNvsStc9g&usqp=CAU",
+    "position": "Bowler",
+    "country": "Afghanistan"
+  }, {
+    "salary": 9876,
+    "name": "Jasprit Bumrah",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmSnQgHN66_0u4JFfUMximnRAgPS-f8-uTCg&usqp=CAU",
+    "position": "Bowler",
+    "country": "India"
+  }, {
+    "salary": 1500,
+    "name": "Rohit Sharma",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVkMl37FZ71H4v6eQpYSiolsf7nBke68tySw&usqp=CAU",
+    "position": "Batsman",
+    "country": "India"
+  }]

@@ -1,0 +1,39 @@
+.player{
+    border-bottom: 1px solid blue;
+    width: 700px;
+    display: flex;
+    padding-top: 20px;
+    margin-bottom: 10px;
+
+}
+.img{
+    /* width: 60%; */
+}
+.img img{
+    /* width: 65%; */
+    
+    border-radius: 100%;
+    height: 150px;
+    width: 150px;
+    margin-right: 50px;
+}
+.player-info{
+    width: 82%;
+}
+.btn{
+    margin-bottom: 10px;
+}
+.list-item  li a:hover{
+    background-color:#580909;
+}
+.player-info h2{
+    color: tomato;
+    font-family: arial Black;
+}
+.player-info h4{
+    color: #551408;
+}
+.player-info h3{
+    color: #025802;
+    font-family: arial;
+}

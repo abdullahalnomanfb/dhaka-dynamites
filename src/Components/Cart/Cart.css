@@ -1,0 +1,20 @@
+.player-cart h1{
+    background-color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px 0px;
+    color: white;
+    font-size: 30px;
+    padding: 5px;
+    text-align: center;
+}
+.player-cart h3{
+    color: blue;
+    background-color: #ddd;
+    padding: 5px;
+}
+.playersName{
+    color: red;
+    background-color: #ddd;
+    padding: 5px 0px 5px 5px;
+    font-family:serif;
+}
